@@ -1,2 +1,2 @@
-# lottest_holesky
-<a href=https://khairultruestory.github.io/lottest_holesky/>click here</a>
+# Simple Lottery on Holesky - wip
+<a href=https://khairultruestory.github.io/Blockchain-Simple-Lottery-Holesky/>click here</a>
